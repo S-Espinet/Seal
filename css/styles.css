@@ -1,0 +1,21 @@
+img {
+  float: left;
+  padding: 4px;
+  background-color: purple;
+  margin: 40px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.my-class {
+  margin: 40px;
+  border: 2px solid green;
+  padding: 18px;
+}
+h1 {
+  text-align: center;
+}
+
